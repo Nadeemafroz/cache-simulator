@@ -56,7 +56,7 @@ cache-simulator/
 
 ### 1. Clone Repository
 
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Nadeemafroz/cache-simulator.git)
 cd cache-simulator
 
 ---
