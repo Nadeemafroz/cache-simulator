@@ -7,7 +7,7 @@ function App() {
   const [strategy, setStrategy] = useState("LRU");
   const [keys, setKeys] = useState([]);
 
-  const BASE_URL = "http://localhost:8080/cache";
+  const BASE_URL = "http://13.127.63.213:8081";
 
   // 🔹 Fetch cache keys
   const fetchKeys = async () => {
